@@ -1,0 +1,21 @@
+#top{
+    background: url("../images/pic.jpg") no-repeat;
+    height: 450px;
+    background-size=cover;
+}
+#uniname img{
+    width: 50px;
+    height: 50px;
+}
+#top h1{
+    margin-top: 140px;
+    color:pink;
+}
+.siderow{
+    float: right;
+    margin-top: -180px;
+    text-decoration: none;   
+}
+.text{
+    border: 1.5px solid gray;
+}
